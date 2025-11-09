@@ -24,8 +24,10 @@
 
 ---
 
-### 🧰 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,mongodb,linux,tensorflow,pytorch,opencv,arduino,raspberrypi,git,vscode,express,matlab,stm32" /> </p>
+### 🧰 Tech & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,mongodb,linux,tensorflow,pytorch,opencv,arduino,raspberrypi,git,vscode,express,matlab,stm32" />
+</p>
 
 ---
 
@@ -50,7 +52,5 @@
 ⭐ **"Engineering smarter systems through AI and innovation."**
 
 <p align="center">
-  <a href="https://github.com/idhamisa">
-    <img src="https://github.com/idhamisa/idhamisa/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="AI animation" width="500"/>
 </p>
