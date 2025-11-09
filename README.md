@@ -1,12 +1,56 @@
-<h1 align="center">Hi 👋, I'm Idham Isa</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there 👋, I'm <a href="https://linkedin.com/in/idham-isa" target="_blank">Muhammad Idham Bin Isa</a></h1>
+<h3 align="center">🤖 Computer Engineering Student | 💡 AI & Embedded Systems Enthusiast | 📍 Malaysia</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/idham isa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idham isa" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/idhamisa">
+    <img src="https://img.shields.io/github/followers/idhamisa?label=Follow&style=social" alt="GitHub followers"/>
+  </a>
+  <a href="https://linkedin.com/in/idham-isa">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:muhammad.idham.isa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&style=flat-square" alt="Gmail"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=idhamisa&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idhamisa&" alt="idhamisa" /></p>
+### 🧑‍💻 About Me
+- 🧠 Interests: **Deep Learning, Computer Vision, Embedded Systems, and IoT**  
+- 🌱 Currently exploring: **AI deployment on edge devices (Raspberry Pi, Hailo AI Hat)**  
+- 💬 Ask me about **Python, AI, Embedded Systems, or PLC Integration**  
+- ⚡ Fun fact: I enjoy combining **hardware and AI** to create intelligent, real-world systems.
+
+---
+
+### 🧰 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,mongodb,linux,tensorflow,pytorch,opencv,arduino,raspberrypi,git,vscode,express,matlab,stm32" /> </p>
+
+---
+
+### 📈 GitHub Analytics
+<p align="center">
+  <a href="https://github.com/idhamisa">
+    <img src="https://github-readme-stats.vercel.app/api?username=idhamisa&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+  </a>
+  <a href="https://github.com/idhamisa">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=idhamisa&theme=tokyonight&hide_border=false" height="165"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/idhamisa">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=idhamisa&theme=tokyo-night" alt="Contribution Graph"/>
+  </a>
+</p>
+
+---
+
+⭐ **"Engineering smarter systems through AI and innovation."**
+
+<p align="center">
+  <a href="https://github.com/idhamisa">
+    <img src="https://github.com/idhamisa/idhamisa/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  </a>
+</p>
