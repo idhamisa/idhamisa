@@ -8,9 +8,10 @@
   <a href="https://linkedin.com/in/idham-isa">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn"/>
   </a>
-  <a href="mailto:muhammad.idham.isa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&style=flat-square" alt="Gmail"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muhammad.idham.isa@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&style=flat-square" alt="Gmail"/>
+</a>
+
   <img src="https://komarev.com/ghpvc/?username=idhamisa&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
 
