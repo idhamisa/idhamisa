@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm <a href="https://linkedin.com/in/idham-isa" target="_blank">Muhammad Idham Bin Isa</a></h1>
-<h3 align="center">🤖 Computer Engineering Student | 💡 AI & Embedded Systems Enthusiast | 📍 Malaysia</h3>
+<h3 align="center">🤖 AI & IT Engineer focused on Computer Vision, Industrial AI, and Factory Monitoring Systems.</h3>
 
 <p align="center">
   <a href="https://github.com/idhamisa">
